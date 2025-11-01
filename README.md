@@ -6,33 +6,53 @@ An open-source directory of tech communities in Senegal, providing easy access t
 
 This project aims to centralize information about tech communities in Senegal, making it easier for developers, tech enthusiasts, and professionals to discover and connect with local communities.
 
+## Communities
+
+### Laravel Senegal
+- **Description**: Communauté Laravel au Sénégal : meetups, entraide, open source.
+- **Website**: https://laravel-senegal.com
+- **WhatsApp**: https://chat.whatsapp.com/Cjeivt4kyDmFx3L8QB7rFE
+- **X**: https://x.com/laravel_sn
+- **GitHub**: https://github.com/Laravel-SN-Community
+
+---
+
 ## Community Information
 
 Each community entry includes:
 - Community name
+- Short description
 - Website link
 - WhatsApp group link
 - Discord server link
 - Telegram group link
 - X (Twitter) link
+- GitHub organization link
 
 ## Contributing
 
 We welcome contributions from everyone! To add a new tech community:
 
 1. Fork this repository
-2. Add your community information following the format below
+2. Add your community information to `community.json` following the format below
 3. Submit a pull request
 
 ### Community Entry Format
 
-```
-Community Name: [Your Community Name]
-Website: [Website URL]
-WhatsApp: [WhatsApp Group Link]
-Discord: [Discord Server Link]
-Telegram: [Telegram Group Link]
-X: [X/Twitter Profile Link]
+Add your community to `community.json` following this format:
+
+```json
+{
+    "id": "your-community-id",
+    "name": "Your Community Name",
+    "short_description": "Brief description of your community",
+    "website": "https://your-website.com",
+    "whatsapp": "https://chat.whatsapp.com/your-link",
+    "discord": "https://discord.gg/your-link",
+    "telegram": "https://t.me/your-channel",
+    "x": "https://x.com/your-handle",
+    "github": "https://github.com/your-org"
+}
 ```
 
 ### Guidelines
