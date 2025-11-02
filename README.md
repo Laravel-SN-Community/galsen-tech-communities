@@ -15,6 +15,15 @@ This project aims to centralize information about tech communities in Senegal, m
 - **X**: https://x.com/laravel_sn
 - **GitHub**: https://github.com/Laravel-SN-Community
 
+### Galsen Dev
+- **Description**: Renforcer la scène tech sénégalaise, connecter les développeurs, partager et offrir un soutien communautaire.
+- **Website**: https://galsen.dev/
+- **WhatsApp**: https://chat.whatsapp.com/EzigxN1N2bZBdxooqaH2Gr
+- **Discord**: https://discord.gg/CKZcKqf
+- **Telegram**: https://t.me/s/galsendev
+- **X**: https://x.com/galsendev
+- **GitHub**: https://github.com/GalsenDev221
+
 ---
 
 ## Community Information
