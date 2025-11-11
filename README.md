@@ -9,26 +9,43 @@ This project aims to centralize information about tech communities in Senegal, m
 ## Communities
 
 ### Laravel Senegal
-- **Description**: Communauté Laravel au Sénégal : meetups, entraide, open source.
-- **Website**: https://laravel-senegal.com
-- **WhatsApp**: https://chat.whatsapp.com/Cjeivt4kyDmFx3L8QB7rFE
-- **X**: https://x.com/laravel_sn
-- **GitHub**: https://github.com/Laravel-SN-Community
 
-### Galsen Dev
-- **Description**: Renforcer la scène tech sénégalaise, connecter les développeurs, partager et offrir un soutien communautaire.
-- **Website**: https://galsen.dev/
-- **WhatsApp**: https://chat.whatsapp.com/EzigxN1N2bZBdxooqaH2Gr
-- **Discord**: https://discord.gg/CKZcKqf
-- **Telegram**: https://t.me/s/galsendev
-- **X**: https://x.com/galsendev
-- **GitHub**: https://github.com/GalsenDev221
+- **Description**: Communauté Laravel au Sénégal : meetups, entraide, open source.
+- **Website**: [https://laravel-senegal.com](https://laravel-senegal.com)
+- **WhatsApp**: [https://chat.whatsapp.com/Cjeivt4kyDmFx3L8QB7rFE](https://chat.whatsapp.com/Cjeivt4kyDmFx3L8QB7rFE)
+- **X**: [https://x.com/laravel_sn](https://x.com/laravel_sn)
+- **GitHub**: [https://github.com/Laravel-SN-Community](https://github.com/Laravel-SN-Community)
+
+### Galsen DEV
+
+- **Description**: Une communauté de développeurs au Sénégal, avec plus de 2.500 membres, avec pour mission, bâtir un écosystème tech dynamique où les développeurs peuvent se connecter, créer et évoluer ensemble.
+- **Website**: [https://galsen.dev](https://galsen.dev)
+- **WhatsApp**: [https://chat.whatsapp.com/EzigxN1N2bZBdxooqaH2Gr](https://chat.whatsapp.com/EzigxN1N2bZBdxooqaH2Gr)
+- **Discord**: [https://discord.gg/CKZcKqf](https://discord.gg/CKZcKqf)
+- **Telegram**: [https://t.me/s/galsendev](https://t.me/s/galsendev)
+- **X**: [https://x.com/galsendev](https://x.com/galsendev)
+- **GitHub**: [https://github.com/GalsenDev221](https://github.com/GalsenDev221)
+
+### Galsen AI
+
+- **Description**: Une communauté initiée par de jeunes sénégalais passionnés de data sciences et d’IoT.
+- **Website**: [https://galsen.ai](https://galsen.ai)
+- **WhatsApp**: [https://chat.whatsapp.com/EbWaj4PuxxE25e3l85aaYY](https://chat.whatsapp.com/EbWaj4PuxxE25e3l85aaYY)
+- **X**: [https://x.com/galsenai](https://x.com/galsenai)
+- **GitHub**: [https://github.com/Galsenaicommunity](https://github.com/Galsenaicommunity)
+
+### GDG Dakar
+
+- **Description**: Un groupe de développeurs à but non lucratif basé à Dakar, qui vise à apprendre, partager et découvrir davantage sur les technologies en constante évolution de Google et au-delà.
+- **Website**: [https://gdg.community.dev/gdg-dakar](https://gdg.community.dev/gdg-dakar)
+- **X**: [https://x.com/gdg_dakar](https://x.com/gdg_dakar)
 
 ---
 
 ## Community Information
 
 Each community entry includes:
+
 - Community name
 - Short description
 - Website link
@@ -52,15 +69,15 @@ Add your community to `community.json` following this format:
 
 ```json
 {
-    "id": "your-community-id",
-    "name": "Your Community Name",
-    "short_description": "Brief description of your community",
-    "website": "https://your-website.com",
-    "whatsapp": "https://chat.whatsapp.com/your-link",
-    "discord": "https://discord.gg/your-link",
-    "telegram": "https://t.me/your-channel",
-    "x": "https://x.com/your-handle",
-    "github": "https://github.com/your-org"
+  "id": "your-community-id",
+  "name": "Your Community Name",
+  "short_description": "Brief description of your community",
+  "website": "https://your-website.com",
+  "whatsapp": "https://chat.whatsapp.com/your-link",
+  "discord": "https://discord.gg/your-link",
+  "telegram": "https://t.me/your-channel",
+  "x": "https://x.com/your-handle",
+  "github": "https://github.com/your-org"
 }
 ```
 

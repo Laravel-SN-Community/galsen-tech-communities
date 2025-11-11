@@ -1,22 +1,38 @@
 [
-    {
-        "id": "laravel-senegal",
-        "name": "Laravel Senegal",
-        "short_description": "Communauté Laravel au Sénégal : meetups, entraide, open source.",
-        "website": "https://laravel-senegal.com",
-        "whatsapp": "https://chat.whatsapp.com/Cjeivt4kyDmFx3L8QB7rFE",
-        "x": "https://x.com/laravel_sn",
-        "github": "https://github.com/Laravel-SN-Community"
-    },
-    {
-         "id": "galsen-dev",
-        "name": "Galsen Dev",
-        "short_description": "Renforcer la scène tech sénégalaise, connecter les développeurs, partager et offrir un soutien communautaire.",
-        "website": "https://galsen.dev/",
-        "whatsapp": "https://chat.whatsapp.com/EzigxN1N2bZBdxooqaH2Gr",
-        "x": "https://x.com/galsendev",
-        "github": "https://github.com/GalsenDev221", 
-        "discord": "https://discord.gg/CKZcKqf", 
-        "telegram": "https://t.me/s/galsendev"
-    }
+  {
+    "id": "laravel-senegal",
+    "name": "Laravel Senegal",
+    "short_description": "Communauté Laravel au Sénégal : meetups, entraide, open source.",
+    "website": "https://laravel-senegal.com",
+    "whatsapp": "https://chat.whatsapp.com/Cjeivt4kyDmFx3L8QB7rFE",
+    "x": "https://x.com/laravel_sn",
+    "github": "https://github.com/Laravel-SN-Community"
+  },
+  {
+    "id": "galsen-dev",
+    "name": "Galsen DEV",
+    "short_description": "Une communauté de développeurs au Sénégal, avec plus de 2.500 membres, avec pour mission, bâtir un écosystème tech dynamique où les développeurs peuvent se connecter, créer et évoluer ensemble.",
+    "website": "https://galsen.dev",
+    "whatsapp": "https://chat.whatsapp.com/EzigxN1N2bZBdxooqaH2Gr",
+    "x": "https://x.com/galsendev",
+    "github": "https://github.com/GalsenDev221",
+    "discord": "https://discord.gg/CKZcKqf",
+    "telegram": "https://t.me/s/galsendev"
+  },
+  {
+    "id": "galsen-ai",
+    "name": "Galsen AI",
+    "short_description": "Une communauté initiée par de jeunes sénégalais passionnés de data sciences et d’IoT.",
+    "website": "https://galsen.ai",
+    "whatsapp": "https://chat.whatsapp.com/EbWaj4PuxxE25e3l85aaYY",
+    "x": "https://x.com/galsenai",
+    "github": "https://github.com/Galsenaicommunity"
+  },
+  {
+    "id": "gdg-dakar",
+    "name": "GDG Dakar",
+    "short_description": "Un groupe de développeurs à but non lucratif basé à Dakar, qui vise à apprendre, partager et découvrir davantage sur les technologies en constante évolution de Google et au-delà.",
+    "website": "https://gdg.community.dev/gdg-dakar",
+    "x": "https://x.com/gdg_dakar"
+  }
 ]
